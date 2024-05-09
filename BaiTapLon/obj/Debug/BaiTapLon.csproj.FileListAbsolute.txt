@@ -1,0 +1,40 @@
+C:\Users\anhxo\OneDrive\Tài liệu\LTDesktop\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+C:\Users\anhxo\OneDrive\Tài liệu\LTDesktop\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe
+C:\Users\anhxo\OneDrive\Tài liệu\LTDesktop\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.pdb
+C:\Users\anhxo\OneDrive\Tài liệu\LTDesktop\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTDesktop\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTDesktop\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+C:\Users\anhxo\OneDrive\Tài liệu\LTDesktop\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTDesktop\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTDesktop\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+C:\Users\anhxo\OneDrive\Tài liệu\LTDesktop\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+C:\Users\anhxo\OneDrive\Tài liệu\LTDesktop\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.DANGNHAP.resources
+C:\Users\anhxo\OneDrive\Tài liệu\LTDesktop\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.DANGKY.resources
+C:\Users\anhxo\OneDrive\Tài liệu\LTDesktop\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Qlsinhvien.resources
+C:\Users\anhxo\OneDrive\Tài liệu\LTDesktop\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.SINHVIEN.resources
+C:\Users\itvip\Downloads\Android\Android\C#\BaiTapLon\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+C:\Users\itvip\Downloads\Android\Android\C#\BaiTapLon\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe
+C:\Users\itvip\Downloads\Android\Android\C#\BaiTapLon\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.pdb
+C:\Users\itvip\Downloads\Android\Android\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+C:\Users\itvip\Downloads\Android\Android\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.DANGKY.resources
+C:\Users\itvip\Downloads\Android\Android\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.DANGNHAP.resources
+C:\Users\itvip\Downloads\Android\Android\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+C:\Users\itvip\Downloads\Android\Android\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Qlsinhvien.resources
+C:\Users\itvip\Downloads\Android\Android\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.SINHVIEN.resources
+C:\Users\itvip\Downloads\Android\Android\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+C:\Users\itvip\Downloads\Android\Android\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+C:\Users\itvip\Downloads\Android\Android\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+C:\Users\itvip\Downloads\Android\Android\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+D:\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+D:\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+D:\C#\BaiTapLon\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\C#\BaiTapLon\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\C#\BaiTapLon\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.DANGKY.resources
+D:\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.DANGNHAP.resources
+D:\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Qlsinhvien.resources
+D:\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.SINHVIEN.resources
+D:\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+D:\C#\BaiTapLon\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
